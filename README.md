@@ -56,4 +56,4 @@ Thanks to Kaggle for providing the platform and datasets used in these exercises
 
 **Author:** Usman Shafeeq  
 **Contact:** [usmanshafeeqit@gmail.com](mailto:usmanshafeeqit@gmail.com)
-# SQL-Tutorial
+
